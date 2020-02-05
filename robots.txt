@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uujeithuak.audiocogs.org/sitemap.xml
